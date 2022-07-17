@@ -14,3 +14,4 @@ install.extras()
 install.packages("devtools")
 library(devtools)
 devtools::install_github(repo = "danlwarren/ENMTools", ref = "develop")
+
